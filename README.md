@@ -1,6 +1,6 @@
 # Список дел
 
-*[Список дел](https://nikolaios.github.io/russian-travel/)*
+*[Список дел](https://nikolaios.github.io/Todo-List/)*
 
 **Применяемые технологии:**
 
